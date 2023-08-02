@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**TAcodess/TAcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# align="center">  Hi There 👋 </p>
+<p align="center">I'm Temi Adepetun, a Technical Consultant </p>
+
+
 
 Here are some ideas to get you started:
 

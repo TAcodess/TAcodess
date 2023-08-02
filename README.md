@@ -1,5 +1,5 @@
 
-# <p align="center">  Hi There 👋 </p>
+
 <p align="center">I'm Temi Adepetun, a Technical Consultant </p>
 
 

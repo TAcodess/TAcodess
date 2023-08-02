@@ -1,9 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TAcodess)
 
-<p align="center">I'm Temi Adepetun, a Technical Consultant </p>
-
-
--->
 <h1 align="center">Hi 👋, I'm Temi</h1>
 <h3 align="center">Technical Consultant</h3>
 
